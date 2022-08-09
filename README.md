@@ -1,6 +1,6 @@
 # An End-to-End Fullstack web3 RSVP DApp
 
-This project is a fullstack decentralised application for event creation and management, built with Solidity using the following stack on Ethereum:
+This project is a fullstack decentralised application for event creation and management where users w/o needing to sign-up simply connect their Ethereum based wallets (Metamask, Coinbase, Rainbow), built with Solidity using the following stack: 
 
 Filecoin & IPFS,
 The Graph,
