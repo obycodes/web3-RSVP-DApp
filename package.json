@@ -1,21 +1,18 @@
 {
   "name": "web3rsvp",
   "version": "1.0.0",
-  "description": "Creating an RSVP event dApp. ",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "script": "node scripts/run.js",
-    "deploy": "npx hardhat run scripts/deploy.js --network mumbai",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Vee",
-  "license": "MIT",
-  "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
-    "hardhat": "^2.10.1"
-  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "@graphprotocol/graph-ts": "^0.27.0",
+    "@protofire/subgraph-toolkit": "^0.1.2",
+    "dotenv": "^16.0.1",
+    "prettier": "^2.7.1"
   }
 }
