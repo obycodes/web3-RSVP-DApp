@@ -1,3 +1,4 @@
 packages:
 - web3-rsvp-subgraph
+- web3-rsvp-frontend
 - packages/*
